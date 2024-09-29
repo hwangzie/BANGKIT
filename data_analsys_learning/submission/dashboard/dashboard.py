@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 # !pip install seaborn
 import seaborn as sns
-# !pip install matplotlib
+
 import matplotlib.pyplot as plt
 
 # Load the data
