@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the data
-prsa_df = pd.read_csv('.\main_data.csv')
+prsa_df = pd.read_csv('./main_data.csv')
 
 
 # Create a list of months
